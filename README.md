@@ -1,4 +1,4 @@
-![mickeyshoes's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=mickeyshoes)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mickeyshoes)](https://solved.ac/mickeyshoes)
 
 
 <!--
